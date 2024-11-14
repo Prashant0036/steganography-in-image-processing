@@ -43,8 +43,6 @@ This project implements a technique of hiding secret messages within an image us
 - **Invisible to the Naked Eye:** The image looks normal, but it carries hidden data that can only be extracted with the correct key.
 - **Easy to Use:** Simple process for both hiding and extracting messages.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
